@@ -1,2 +1,2 @@
-# ecology1
+# ecolog
 great site
